@@ -64,9 +64,9 @@ h1 {
 
 .caixa-alternativas button:hover {
   background: linear-gradient(135deg, var(--cor-destaque), var(--cor-destaque-escuro));
-  color: white;
+  color: rgb(247, 100, 173);
   transform: translateY(-2px);
-  box-shadow: 0 12px 20px rgba(111, 63, 207, 0.22);
+  box-shadow: 0 12px 20px rgba(126, 0, 175, 0.22);
 }
 
 .caixa-resultado {
